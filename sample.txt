@@ -1,1 +1,3 @@
 Hello Git Sample branch 1
+
+after merge
